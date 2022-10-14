@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400px" height="300px"  src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png">
 <br>
 
-- 🔭 I’m currently into **Web Development**
+- 🔭 I’m currently into **ML and Web Development**
 
-- 🌱 I’m currently learning **MySQL, MongoDB, NodeJS, ExpressJS, etc**
+- 🌱 I’m currently learning **Machine Learning and Image Processing**
 
 - 👨‍💻 All of my projects are available at [https://jeevikak.github.io/Profile/](https://jeevikak.github.io/Profile/)
 
