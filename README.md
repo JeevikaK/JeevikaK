@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jeevikak.github.io/Profile/](https://jeevikak.github.io/Profile/)
 
-- 📫 How to reach me **jeevika.kiran@gmail.com,**
+- 📫 How to reach me **jeevika.kiran@gmail.com**
   <br>
   <br>
 
