@@ -6,10 +6,6 @@
 
 - 🔭 I’m currently into **ML and Web Development**
 
-- 🌱 I’m currently learning **Machine Learning and Image Processing**
-
-- 👨‍💻 All of my projects are available at [https://jeevikak.github.io/Profile/](https://jeevikak.github.io/Profile/)
-
 - 📫 How to reach me **jeevika.kiran@gmail.com**
   <br>
   <br>
