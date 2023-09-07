@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400px" height="300px"  src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png">
 <br>
 
-- 🔭 I’m currently into **ML and Web Development**
+- 🔭 I’m currently into **ML, Deep Learning and Web Development**
 
 - 📫 How to reach me **jeevika.kiran@gmail.com**
   <br>
