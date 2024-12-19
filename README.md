@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jeevika Kiran</h1>
-<h3 align="center">I'm a student of Information Science and Engineering at Ramaiah Institute of Technology. I'm a keen learner and am exploring various technologies</h3>
+<h3 align="center">I'm a coding enthusiast currently working as a Software Developer at IBM India Software Labs, and a graduate student of Information Science and Engineering at Ramaiah Institute of Technology.</h3>
 <img align="right" alt="Coding" width="400px" height="300px"  src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png">
 <br>
 
