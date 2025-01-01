@@ -33,7 +33,6 @@ Building accessible AI solutions to solve everyday problems using multi-modal AI
 
 📫 How to reach me: **jeevika.kiran@gmail.com**  
   <br>
-  <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
