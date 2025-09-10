@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jeevika Kiran</h1>
-<h3 align="center">I'm a passionate coding enthusiast with a strong background in AI/ML, Web Development, and research, currently working as a Software Developer at IBM India Software Labs</h3>
+<h3 align="center">A passionate AI enthusiast with currently pursuing MS in Computer Science at the University of Southern Califronia. With a strong background in backend development with AI workflows. full stack web Development, and research, I'm always on a hunt to solve complex real world challenges using cutting-edge technology</h3>
 <div align="center">
   <img alt="Coding" width="400px" height="300px" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png">
 </div><br>
